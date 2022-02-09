@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cchhita
 - 👀 I’m interested in database, classification and visualization 
-- 🌱 I’m currently learning MySQL about database management
+- 🌱 I’m currently learning MySQL about database management and having position as Software Quality Assurance
 - 📫 Send your question to chitaharahap8@gmail.com or to my linkedin chita nauly harahap
 
 <!---
